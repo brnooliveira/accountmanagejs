@@ -1,4 +1,4 @@
 # accountmanagejs
 
 
-A simple account manage app
+A simple account manage project
